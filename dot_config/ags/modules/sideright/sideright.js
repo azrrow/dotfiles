@@ -8,7 +8,6 @@ import {
     HyprToggleIcon,
     ModuleNightLight,
     ModuleInvertColors,
-    ModuleIdleInhibitor,
     ModuleReloadIcon,
     ModuleSettingsIcon,
     ModulePowerIcon,
@@ -35,7 +34,6 @@ const QUICK_TOGGLES = {
     'nightlight': await ModuleNightLight(),
     'invertcolors': await ModuleInvertColors(),
     'gamemode': await ModuleGameMode(),
-    'idleinhibitor': ModuleIdleInhibitor(),
     'cloudflarewarp': await ModuleCloudflareWarp(),
 }
 
