@@ -27,13 +27,13 @@
   <author>Leo Iannacone</author>
   <_description>Based on SublimeText Monokai Extended - Generated with tm2gtksw2</_description>
 
-  <style name="bracket-match"  background="#534341" foreground="#F5DDDA" bold="true"/>
+  <style name="bracket-match"  background="#FDCD85" foreground="#604103" bold="true"/>
   <style name="bracket-mismatch"  background="#333333" underline="true"/>
   <style name="c:preprocessor" foreground="#be84ff"/>
   <style name="css:at-rules" foreground="#f92672"/>
   <style name="css:color" foreground="#be84ff"/>
   <style name="css:keyword" foreground="#66d9ef"/>
-  <style name="current-line"  background="#383433"/>
+  <style name="current-line"  background="#F9DEC5"/>
   <style name="cursor" foreground="#f8f8f0"/>
   <style name="def:base-n-integer" foreground="#be84ff"/>
   <style name="def:boolean" foreground="#be84ff"/>
