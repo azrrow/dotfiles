@@ -1,0 +1,3 @@
+#!/bin/sh
+flatpak install flathub app.zen_browser.zen dev.vencord.Vesktop com.valvesoftware.Steam com.obsproject.Studio org.gimp.GIMP
+sudo dnf install lutris
