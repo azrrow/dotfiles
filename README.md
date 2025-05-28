@@ -16,7 +16,7 @@ sudo dnf install akmod-nvidia
 # https://www.chezmoi.io/install
 
 # initialize chezmoi and point it to this repo
-chezmoi init --apply azezsan
+chezmoi init --apply azrrow
 
 # Reboot and choose hyperland uwsm session to login
 ```
